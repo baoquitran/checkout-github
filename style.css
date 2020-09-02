@@ -7,6 +7,10 @@ body{
   width: 720px;
   margin: 200px auto;
 }
+header{
+  text-align: center;
+  padding: 20px;
+}
 section{
   display: grid;
   grid-template: repeat(2, 60px) / repeat(3, 1fr);
